@@ -1,0 +1,3 @@
+taskManager/client/node_modules/*
+taskManager/server/node_modules/*
+taskManager/server/.env

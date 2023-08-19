@@ -1,0 +1,12 @@
+.home{
+    border:5px solid black;
+    text-align: center;
+    width: 70%;
+    margin: auto;
+    margin-top: 25px;
+    padding: 15px;
+    background-color: beige;
+}
+.home button a{
+    color:white;
+}
